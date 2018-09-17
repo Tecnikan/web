@@ -14,3 +14,9 @@ chromedriver-binary==2.41.0
 
 # dev
 django-debug-toolbar==1.9.1
+
+
+geopandas==0.4.0
+pandas==0.23.4
+Shapely==1.6.4
+Rtree==0.8.3
